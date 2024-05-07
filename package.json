@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "parcel": "^2.12.0"
+  },
+  "name": "personalportfolio",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start":"parcel portfolio.html",
+    "build":"parcel build portfolio.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
